@@ -251,10 +251,6 @@ def get():
     except Exception as error:
         continious_connection()
        
-#   tqdm==4.46.1
-# pyaudio==0.2.11
-# pyscreenshot==2.2
-# secrets==1.0.2
 
 
         
